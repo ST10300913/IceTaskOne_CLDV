@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\icetaskone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|solutionrelative:icetaskone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\icetaskone\\controllers\\rugbybootcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|solutionrelative:icetaskone\\controllers\\rugbybootcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\icetaskone\\controllers\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|solutionrelative:icetaskone\\controllers\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\icetaskone\\controllers\\bootscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|solutionrelative:icetaskone\\controllers\\bootscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|c:\\users\\lab_services_student\\documents\\cldv\\icetaskone\\icetaskone\\views\\rugbyboot\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|solutionrelative:icetaskone\\views\\rugbyboot\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\icetaskone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|solutionrelative:icetaskone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\icetaskone\\views\\display\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|solutionrelative:icetaskone\\views\\display\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\icetaskone\\migrations\\20240325071614_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|solutionrelative:icetaskone\\migrations\\20240325071614_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\icetaskone\\models\\boots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|solutionrelative:icetaskone\\models\\boots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\icetaskone\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|solutionrelative:icetaskone\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\icetaskone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CD33FA-9AB1-449F-B3C4-FED6B3BAECC7}|IceTaskOne\\IceTaskOne.csproj|solutionrelative:icetaskone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Views\\Display\\Index.cshtml",
+              "RelativeDocumentMoniker": "IceTaskOne\\Views\\Display\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Views\\Display\\Index.cshtml",
+              "RelativeToolTip": "IceTaskOne\\Views\\Display\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwB4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T06:58:33.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Controllers\\Display.cs",
+              "RelativeDocumentMoniker": "IceTaskOne\\Controllers\\Display.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Controllers\\Display.cs",
+              "RelativeToolTip": "IceTaskOne\\Controllers\\Display.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T06:58:18.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240325071614_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Migrations\\20240325071614_InitialCreate.cs",
+              "RelativeDocumentMoniker": "IceTaskOne\\Migrations\\20240325071614_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Migrations\\20240325071614_InitialCreate.cs",
+              "RelativeToolTip": "IceTaskOne\\Migrations\\20240325071614_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:16:15.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BootsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Controllers\\BootsController.cs",
+              "RelativeDocumentMoniker": "IceTaskOne\\Controllers\\BootsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Controllers\\BootsController.cs",
+              "RelativeToolTip": "IceTaskOne\\Controllers\\BootsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:15:12.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Boots.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Models\\Boots.cs",
+              "RelativeDocumentMoniker": "IceTaskOne\\Models\\Boots.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Models\\Boots.cs",
+              "RelativeToolTip": "IceTaskOne\\Models\\Boots.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:07:23.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IceTaskOne\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IceTaskOne\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T06:48:35.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IceTaskOne\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "IceTaskOne\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T06:46:15.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Views\\RugbyBoot\\Index.cshtml",
+              "RelativeDocumentMoniker": "IceTaskOne\\Views\\RugbyBoot\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Views\\RugbyBoot\\Index.cshtml",
+              "RelativeToolTip": "IceTaskOne\\Views\\RugbyBoot\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T06:35:05.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Program.cs",
+              "RelativeDocumentMoniker": "IceTaskOne\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Program.cs",
+              "RelativeToolTip": "IceTaskOne\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:59:48.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RugbyBootController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Controllers\\RugbyBootController.cs",
+              "RelativeDocumentMoniker": "IceTaskOne\\Controllers\\RugbyBootController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Controllers\\RugbyBootController.cs",
+              "RelativeToolTip": "IceTaskOne\\Controllers\\RugbyBootController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:52:23.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "IceTaskOne\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\IceTaskOne\\IceTaskOne\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "IceTaskOne\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T06:53:37.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
